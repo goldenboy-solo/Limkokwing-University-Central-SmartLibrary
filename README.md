@@ -39,11 +39,15 @@ python main.py
 
 
 ## 5. Features
-- Login system
-- Add, update, and delete books
-- Search books & authors
-- Manage members
-- Borrow / Return books
-- Club management
-- Interactive dashboard
-- Admin settings & permissions
+Login system
+Add, update, and delete books
+Search books & authors
+Manage members
+Borrow / Return books
+Club management
+Interactive dashboard
+Admin settings & permissions
+
+## 6. ER Diagram
+<img width="1169" height="1654" alt="EDR Diagram drawio" src="https://github.com/user-attachments/assets/cd335c03-d693-4890-8645-635599cc876b" />
+
